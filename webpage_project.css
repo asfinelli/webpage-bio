@@ -1,0 +1,31 @@
+* {
+  position: relative;
+}
+
+body {
+  text-align: center;
+  color: white;
+  background-color: #3399ff;
+  width: 50em; }
+
+header {
+ font-size: 36px;
+}
+
+.div2 {
+    padding: 20em;
+    border: 1px solid red;
+    box-sizing: border-box;}
+    .img-circle {
+        border-radius: 50%;
+    }
+
+.img-circle {
+  position: centered;
+  width: 20em;
+  height: 25em;
+}
+
+li  {
+  list-style: none;
+}
